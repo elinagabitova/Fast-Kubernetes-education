@@ -1,11 +1,11 @@
 # Fast-Kubernetes
-This repo covers Kubernetes objects' and components' details (Kubectl, Pod, Deployment, Service, ConfigMap, Volume, PV, PVC, Daemonset, Secret, Affinity, Taint-Toleration, Helm, etc.) fastly, and possible example usage scenarios (HowTo: Hands-on LAB) in a nutshell. Possible usage scenarios are aimed to update over time.
+Этот репозиторий - перевод Fast-kubernetes на русский язык с комментариями и дополнениями. Он поможет начинающим DevOps/DevSecOps/IT-специалистам в понимании Kubernetes (Kubectl, Pod, Deployment, Service, ConfigMap, Volume, PV, PVC, Daemonset, Secret, Affinity, Taint-Toleration, Helm, etc.)
 
 
 ## Prerequisite
 - Have a knowledge of Container Technology (Docker). You can learn it from here => [Fast-Docker](https://github.com/omerbsezer/Fast-Docker)
 
-**Keywords:** Containerization, Kubernetes, Kubectl, Pod, Deployment, Service, ConfigMap, ReplicaSet, Volume, Cheatsheet.
+**Теги:** Containerization, Kubernetes, Kubectl, Pod, Deployment, Service, ConfigMap, ReplicaSet, Volume, Cheatsheet.
 
 **Note:** K8s objects and objects feature can be updated/changed in time. While creating this repo, the version of K8s was v1.22.3. Some sections are trying to be kept up to date. Especially [Creating K8s Cluster with Kubeadm and Containerd](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Kubeadm-Cluster-Setup.md).
 
